@@ -1,0 +1,9 @@
+We can use CSS to alter text and images throughout a website. Here are some concepts:
+# CSS declarations are structured into property and value pairs.
+# The font-family property defines the typeface of an element.
+# The font-size controls the size of text displayed.
+# The font-weight defines how thin or thick text is displayed.
+# The text-align property places text in the left, right, or center of its parent container.
+# Text can have two diffferent color attributes: color and background-color. color defines the color of the text, while background-color defines the color behind the text.
+# CSS can make an element transparent with the opacity property.
+# CSS can also set the background of an element to an image with the background-image property.
